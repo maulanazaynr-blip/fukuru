@@ -1,0 +1,7 @@
+{
+  "name": "Remix: FUKURU FINAL",
+  "description": "A high-end personal portfolio inspired by the Great Houses of Westeros, featuring a Grand Maester AI assistant powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
